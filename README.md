@@ -1,4 +1,4 @@
-# Welcome in our team!
+# Welcome to our team!
 | # | ΑΜ | GitHub profile |
 | -- | -- | -- |
 | 1 | 2019215| [p19ntar](https://github.com/p19ntar) |
